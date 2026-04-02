@@ -28,6 +28,9 @@ I'm a **Data & AI Engineer** based in Colombo, Sri Lanka, with over 1.5 years of
 - 🎓 BSc. Applied Data Science · **First Class Honours** · GPA 3.73 · KDU
 - 📍 Colombo, Sri Lanka
 
+<img width="300" height="300" alt="beta" src="https://github.com/user-attachments/assets/dec42ef7-f18d-45f7-8721-02496a5ea077" />
+<img width="336" height="300" alt="gold2" src="https://github.com/user-attachments/assets/5401cc49-ad32-47e3-8248-ecf195e0e057" />
+
 ---
 
 ## 🛠️ Tech Stack
@@ -82,6 +85,13 @@ I'm a **Data & AI Engineer** based in Colombo, Sri Lanka, with over 1.5 years of
 | Google Certified Data Analyst | Google |
 | Copilot for Security — Ninja Training | Microsoft |
 | Responsible AI Workshop — Coach | Microsoft |
+
+<img width="1080" height="1080" alt="az900" src="https://github.com/user-attachments/assets/100fd851-b4a9-4e9d-ae1c-b5fce627e626" />
+<img width="300" height="300" alt="dp" src="https://github.com/user-attachments/assets/2a6a039d-b3af-4dcf-900c-e5c1e2017b81" />
+<img width="300" height="300" alt="aif" src="https://github.com/user-attachments/assets/1c26c66e-c2b9-4f32-986b-496235a34450" />
+<img width="300" height="300" alt="gda" src="https://github.com/user-attachments/assets/35c28151-ddf3-47a3-b54d-68785ff02e19" />
+<img width="300" height="300" alt="caoch" src="https://github.com/user-attachments/assets/ab7fd66c-a66e-40f1-abd4-3a7267b5b11a" />
+<img width="300" height="300" alt="up" src="https://github.com/user-attachments/assets/e05e6eb1-7cc9-4e6b-b004-d300eff03c9d" />
 
 ---
 
