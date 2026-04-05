@@ -23,9 +23,9 @@
 
 I'm a **Data & AI Engineer** based in Colombo, Sri Lanka, with over 1.5 years of hands-on experience building end-to-end data pipelines, medallion architectures, and AI-powered solutions on **Microsoft Azure** and **Microsoft Fabric**.
 
-- 🏢 Associate Data Engineer @ **BISTEC Global Services**
+- 🏢 Associate Data Engineer 
 - 🌐 **Microsoft Startup Scout — Gold** · Mentoring Sri Lankan startups on Microsoft AI platforms
-- 🎓 BSc. Applied Data Science · **First Class Honours** · GPA 3.73 · KDU
+- 🎓 BSc. Applied Data Science · KDU
 - 📍 Colombo, Sri Lanka
 
 ---
