@@ -86,11 +86,6 @@ I'm a **Data & AI Engineer** based in Colombo, Sri Lanka, with over 1.5 years of
 <br>
 <br>
 
-<img width="300" height="300" alt="azlogo" src="https://github.com/user-attachments/assets/bdabdf0d-29c5-4599-be5a-2fcb0e6d7b56" />
-<img width="300" height="300" alt="dp" src="https://github.com/user-attachments/assets/2a6a039d-b3af-4dcf-900c-e5c1e2017b81" />
-<img width="300" height="300" alt="aif" src="https://github.com/user-attachments/assets/1c26c66e-c2b9-4f32-986b-496235a34450" />
-
-
 ---
 
 <p align="center">
